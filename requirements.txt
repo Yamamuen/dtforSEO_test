@@ -1,0 +1,4 @@
+packaging==23.2
+plotly==5.18.0
+python-dotenv==1.0.1
+tenacity==8.2.3
